@@ -80,7 +80,7 @@ A low-cost, eco-friendly, and responsive **flex sensor** made using **graphite-c
 
 | Fabrication Steps | Final Setup |
 |------------------|-------------|
-| ![Step-by-step](images/fabrication_steps.png) | ![Final Sensor](images/final_sensor.png) |
+| ![Step-by-step](Solution add.png) | ![Final Sensor](images/final_sensor.png) |
 
 *(Include photos or diagrams in an `images/` folder)*
 
