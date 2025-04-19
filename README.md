@@ -1,6 +1,3 @@
-# Save the README content in markdown format as README.md
-
-readme_content = """
 # 📄 Paper-Based Flexible Sensor for Wearable Applications
 
 A low-cost, eco-friendly, and responsive **flex sensor** made using **graphite-coated filter paper** enhanced with **sodium chloride (NaCl)** — designed for wearable and assistive applications. This project demonstrates the **design, fabrication, and characterization** of a sustainable alternative to conventional silicon-based flex sensors.
