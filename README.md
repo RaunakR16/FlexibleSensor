@@ -92,9 +92,3 @@ A low-cost, eco-friendly, and responsive **flex sensor** made using **graphite-c
 - Advanced **machine learning models** for gesture interpretation  
 
 ---
-
-## 📚 Citation
-
-If you use this project or build upon it, please cite:
-
-
