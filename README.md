@@ -44,7 +44,7 @@ A low-cost, eco-friendly, and responsive **flex sensor** made using **graphite-c
 - Uses Arduino’s **10-bit ADC**
 - Real-time monitoring via Serial Monitor & Plotter
 - Voltage output calculated by:
-  ```
+```cpp
   Voltage = (ADC_Value × 5) / 1023
 ```
 - Output varies with bending due to resistance changes in sensor
