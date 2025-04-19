@@ -47,4 +47,55 @@ A low-cost, eco-friendly, and responsive **flex sensor** made using **graphite-c
   ```
   Voltage = (ADC_Value × 5) / 1023
 ```
+- Output varies with bending due to resistance changes in sensor
+
+---
+
+## 📊 Performance Summary
+
+| Parameter        | Paper Sensor | Commercial Sensor |
+|------------------|--------------|-------------------|
+| Sensitivity (Up) | 0.0022       | 0.0007            |
+| Sensitivity (Down) | 0.0012     | 0.0009            |
+| Peak Voltage     | ~5.0V        | ~4.97V            |
+| Repeatability    | High         | Medium            |
+| Durability       | Excellent    | Moderate          |
+
+- Shows **higher sensitivity** at small angles  
+- Excellent **repeatability and durability** over 20+ cycles  
+- Sustainable alternative for budget-constrained environments
+
+---
+
+## 🚀 Applications
+
+- 🤖 **Assistive Glove**: For individuals with motor impairments  
+- 🎮 **Gesture-Based Gaming**: Affordable, sensitive input control  
+- 🦾 **Robotics**: Real-time bending angle detection  
+- 🧥 **Smart Textiles**: Integration into wearables and health monitors  
+
+---
+
+## 📷 Visual Overview
+
+| Fabrication Steps | Final Setup |
+|------------------|-------------|
+| ![Step-by-step](images/fabrication_steps.png) | ![Final Sensor](images/final_sensor.png) |
+
+*(Include photos or diagrams in an `images/` folder)*
+
+---
+
+## 🧠 Future Improvements
+
+- Use of **CNC plotters** for consistent graphite application  
+- Integration with **wireless modules** for IoT-based wearables  
+- Advanced **machine learning models** for gesture interpretation  
+
+---
+
+## 📚 Citation
+
+If you use this project or build upon it, please cite:
+
 
